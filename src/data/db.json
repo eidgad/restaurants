@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "secure_password",
+      "id": "4f00"
+    },
+    {
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "password": "another_secure_password",
+      "id": "5652"
+    },
+    {
+      "name": "eid",
+      "email": "mrlbasiony@gmail.com",
+      "password": "#Eid197530",
+      "id": "efa2"
+    }
+  ],
+  "locations": [
+    {
+      "id": "583e",
+      "Restaurantname": "Rosto",
+      "Phone": "02321321312",
+      "location": "cairo",
+      "userid": "4f00"
+    },
+    {
+      "id": "1b6d",
+      "Restaurantname": "red sea",
+      "Phone": "01212121212121",
+      "location": "CAIRO",
+      "userid": "efa2"
+    }
+  ],
+  "categories": [
+    {
+      "name": "breakfast",
+      "id": "1",
+      "userid": "4f00",
+      "locationid": "aa54"
+    },
+    {
+      "name": "lunch",
+      "id": "2",
+      "userid": "4f00",
+      "locationid": "aa54"
+    },
+    {
+      "name": "dinner",
+      "id": "3",
+      "userid": "efa2",
+      "locationid": "aa54"
+    }
+  ],
+  "items": []
+}
